@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ZookpeerApI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ZookpeerJavaApI.war">
+      <element id="artifact" artifact-name="ZookpeerApI:war exploded" />
+    </root>
+  </artifact>
+</component>
